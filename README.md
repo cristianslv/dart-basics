@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="250" width="250">
 </p>
 
 # Dart Basics
